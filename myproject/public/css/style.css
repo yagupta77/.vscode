@@ -1,0 +1,11 @@
+body{
+    background-color: burlywood;
+}
+img{
+    height: 100px;
+    width: 100px;
+}
+button:hover{
+    color: darkgoldenrod;
+    cursor: pointer;
+}
